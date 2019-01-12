@@ -1,0 +1,43 @@
+body{
+  background: url(cosmic-dark-ages.jpg);
+  background-size: cover;
+}
+
+.container{
+  margin-top: 10%;
+  margin-left: 20%;
+}
+
+.container h1,p{
+	color: white;
+}
+
+.container h1 {
+    font-size: 1.75rem;
+}
+
+.btn { 
+  	display:block;
+  	display: inline; 	
+}
+
+#btnDiv{
+	margin-top: 5%;
+}
+
+div.card{
+	background-color: #584f4f26;
+	border: 1px solid #eeeeee73; 
+	color:white;
+}
+
+.card-body blockquote{
+	border-left: 5px solid black;
+}
+
+
+
+
+
+
+
